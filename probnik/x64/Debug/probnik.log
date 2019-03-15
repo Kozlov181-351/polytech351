@@ -1,0 +1,5 @@
+﻿  probnik.cpp
+c:\users\admin\source\repos\labs\probnik\probnik.cpp(18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\labs\probnik\probnik.cpp(29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\labs\probnik\probnik.cpp(56): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  probnik.vcxproj -> C:\Users\Admin\source\repos\LABS\x64\Debug\probnik.exe

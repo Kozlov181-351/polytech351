@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\admin\source\repos\labs\open-ssl\open-ssl\source.cpp(77): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\admin\source\repos\labs\open-ssl\open-ssl\source.cpp(120): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Open-SSL.vcxproj -> C:\Users\Admin\source\repos\LABS\x64\Debug\Open-SSL.exe
