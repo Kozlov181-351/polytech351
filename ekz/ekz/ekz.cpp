@@ -1,5 +1,4 @@
-﻿#include "pch.h"
-#include <iostream>                            
+﻿#include <iostream>                            
    
 
 using namespace std;
@@ -7,7 +6,6 @@ int main() {
 	setlocale(LC_ALL, "Russian"); 
 	int n = 0;
 	int x = 0; // сразу инициализируем х нулем, чтобы не было проблем в дальнейшем
-	cout << "введите количество строк и столбцов"<< endl;
 	cin >> n;
 	int ** a; // создаем указатель для динамического массива
 	a = new int *[n]; 
@@ -16,7 +14,6 @@ int main() {
 		a[i] = new int[n];
 		for (int j = 0; j < n; j++)
 		{
-			cout << "введите" << i+1 << " " << j+1 << " элемент" << endl;
 			cin >> a[i][j];
 		}
 	}
